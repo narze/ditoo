@@ -1,0 +1,14 @@
+{
+  "name": "ditoo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Manassarn Manoonchai",
+  "license": "MIT",
+  "dependencies": {
+    "bluetooth-serial-port": "^2.2.7",
+    "node-divoom-timebox-evo": "^0.3.0"
+  },
+  "scripts": {
+    "start": "node ."
+  }
+}
